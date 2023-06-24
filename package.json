@@ -1,0 +1,9 @@
+{
+  "name": "Compendium",
+  "version": "1.0.0",
+  "description": "The best open-source guitar knowledge base on the planet.",
+  "main": "index.js",
+  "repository": "git@github.com:ltgouvea/guitar-compendium.git",
+  "author": "Lucas <lucas.fim@gmail.com>",
+  "license": "MIT"
+}
