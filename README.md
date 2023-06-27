@@ -1,3 +1,3 @@
-# guitar-compendium
+# The guitar ompendium
 
-## The best open-source guitar knowledge base on the planet.
+## The best open-source guitar knowloedge base on the planet.
