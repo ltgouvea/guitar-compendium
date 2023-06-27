@@ -49,6 +49,9 @@ const config: GatsbyConfig = {
           },
         ],
       },
+    },    
+    {
+      resolve: `gatsby-plugin-netlify-cms`
     },
     // You can remove this plugin if you don't need it
     shouldAnalyseBundle && {
