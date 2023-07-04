@@ -6,12 +6,13 @@ media_folder: static/assets
 public_folder: /assets
 
 collections:
-  - name: blog
-    label: Blog
-    folder: blog
+  - name: downloads
+    label: Downloads
+    folder: downloads
     create: true
     fields:
       - { name: path, label: Path }
+      - { name: file, label: File, widget: file }
       - { name: date, label: Date, widget: datetime }
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
