@@ -1,5 +1,5 @@
 ---
-title: 'Teoria Musical - Completo'
+title: 'Music Theory'
 menu: navbar
 type: 'bookcase'
 bookcase_cover_src: 'icons/bookcase.svg'
