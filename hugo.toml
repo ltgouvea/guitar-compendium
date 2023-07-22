@@ -1,0 +1,16 @@
+baseURL = 'https://guitarcompendium.com/'
+languageCode = 'en-us'
+title = 'Guitar Compendium'
+theme = "hugo-theme-monochrome"
+
+[params]
+navbar_title = "Guitar Compendium" # default: site's `title`
+footer = "Copyright © 2023 by Lucas Gouvêa" # default: None
+enable_collapsible_toc = true # default: false
+author = "Lucas Gouvêa" # default: no author `meta` tag
+description= "The best free and open source guitar knowledge base of planet Earth"
+
+
+ 
+[markup.goldmark.renderer]
+unsafe= true
