@@ -39,7 +39,7 @@ No it's not. You practice consistently and progressively, you get really good an
 
 #### (Many courses advertise this): "PLAY GUITAR IN ONLY 45 DAYS/3 MONTHS/6 MONTHS"
 
-Forget these kind of idea. This is complete bullshit. Everybody learns differently and somethings might take you a couple hours to learn and take months for other player to get it down, and vice-versa.
+Forget this kind of idea. This is complete bullshit. Everybody learns differently and somethings might take you a couple hours to learn and take months for other player to get it down, and vice-versa.
 The fact is that learning music is a lifelong commitment, it takes YEARS to develop your musical identity (because it goes right along with developing your own personality) and this course-directioned mentality is misleading.
 
 ## Sample week schedule for a beginner (first 2-3 months)
