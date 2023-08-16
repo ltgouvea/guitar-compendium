@@ -9,7 +9,7 @@ footer = "Copyright © 2023 by Lucas Gouvêa" # default: None
 enable_collapsible_toc = true # default: false
 enable_site_search = true
 author = "Lucas Gouvêa" # default: no author `meta` tag
-description= "The best free and open source guitar knowledge base of planet Earth"
+description = "The best free and open source guitar knowledge base of planet Earth"
 
 [markup.goldmark.renderer]
 unsafe= true
