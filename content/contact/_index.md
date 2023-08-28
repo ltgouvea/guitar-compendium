@@ -2,6 +2,8 @@
 title: 'Contact'
 menu: navbar
 type: 'blank'
+bookcase_cover_src: 'icons/picture.svg'
+bookcase_cover_src_dark: 'icons/picture_dark.svg'
 weight: 10
 ---
 
