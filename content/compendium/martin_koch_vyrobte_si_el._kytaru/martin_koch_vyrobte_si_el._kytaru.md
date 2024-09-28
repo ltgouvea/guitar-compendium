@@ -3,7 +3,7 @@ title: 'Building Electric Guitars'
 weight: 9
 bookcase_cover_src: 'cover/martin_koch.png'
 bookcase_cover_src_dark: 'cover/martin_koch.png'
-download_link: 'pdfs/martin_koch.pdf'
+download_link: '/pdfs/martin_koch.pdf'
 ---
 
 - Author: Martin Koch
@@ -14,4 +14,4 @@ download_link: 'pdfs/martin_koch.pdf'
 - Producer: Acrobat Distiller 5.0 (Windows)
 - Subject:  
 - Title: Building Electric Guitars
-# [DOWNLOAD](/pdfs/martin_koch.pdf)
+{{< button >}}

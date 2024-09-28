@@ -3,7 +3,7 @@ title: 'Key Signatures'
 weight: 19
 bookcase_cover_src: 'cover/teoria/0106keysignatures.png'
 bookcase_cover_src_dark: 'cover/teoria/0106keysignatures.png'
-download_link: 'pdfs/teoria/0106keysignatures.pdf'
+download_link: '/pdfs/teoria/0106keysignatures.pdf'
 ---
 
 - CreationDate: D:20140103122212-05'00'
@@ -11,4 +11,4 @@ download_link: 'pdfs/teoria/0106keysignatures.pdf'
 - ModDate: D:20140103122212-05'00'
 - Producer: Adobe PDF library 9.90
 - Title: Key Signatures
-# [DOWNLOAD](/pdfs/teoria/0106keysignatures.pdf)
+{{< button >}}

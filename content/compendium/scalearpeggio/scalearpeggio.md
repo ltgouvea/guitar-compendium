@@ -3,7 +3,7 @@ title: 'Scales/Arpeggios - Rich Cochrane'
 weight: 12
 bookcase_cover_src: 'cover/scalearpeggio.png'
 bookcase_cover_src_dark: 'cover/scalearpeggio.png'
-download_link: 'pdfs/scalearpeggio.pdf'
+download_link: '/pdfs/scalearpeggio.pdf'
 ---
 
 - Author: Rich Cochrane at obooko.com
@@ -14,4 +14,4 @@ download_link: 'pdfs/scalearpeggio.pdf'
 - Producer: Neevia PDFcompress v3.4 (http://neeviaPDF.com)
 - Title: Scale and Arpeggio Resources: A Guitar Encyclopedia
 - Trapped: /False
-# [DOWNLOAD](/pdfs/scalearpeggio.pdf)
+{{< button >}}
