@@ -5,8 +5,3 @@ bookcase_cover_src: 'icons/bookcase.svg'
 bookcase_cover_src_dark: 'icons/bookcase_dark.svg'
 type: "bookcase"
 ---
-
-{{< icon name="github" link="https://github.com/ltgouvea/guitar-compendium" >}}
-
-# Index
-
