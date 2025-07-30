@@ -1,16 +1,16 @@
 ---
-title: 'b'\xff\xfeA\x00n\x00t\x00h\x00o\x00l\x00o\x00g\x00y\x00 \x000\x000\x000\x00.\x00t\x00i\x00f\x00\x00\x00''
+title: 'Iron Maiden Anthology 2006'
 weight: 1
 bookcase_cover_src: 'cover/iron_maiden_anthology_2006.png'
 bookcase_cover_src_dark: 'cover/iron_maiden_anthology_2006.png'
 download_link: '/pdfs/iron_maiden_anthology_2006.pdf'
 ---
 
-- Author: b'\xff\xfeL\x00a\x00s\x00s\x00e\x00\x00\x00'
-- CreationDate: Desconhecida
-- Creator: b'\xff\xfeA\x00n\x00t\x00h\x00o\x00l\x00o\x00g\x00y\x00 \x000\x000\x000\x00.\x00t\x00i\x00f\x00\x00\x00'
-- ModDate: Desconhecida
-- Producer: b'\xff\xfeP\x00D\x00F\x00 \x00C\x00M\x00D\x00 \x007\x00.\x008\x005\x00\x00\x00'
-- Title: b'\xff\xfeA\x00n\x00t\x00h\x00o\x00l\x00o\x00g\x00y\x00 \x000\x000\x000\x00.\x00t\x00i\x00f\x00\x00\x00'
+- Author: Edward The Great
+- CreationDate: 2006
+- Creator: Bruce Dickinson and Associates
+- ModDate: Unknown
+- Producer: Unknown
+- Title: Iron Maiden Anthology 2006
 
 {< button >}
