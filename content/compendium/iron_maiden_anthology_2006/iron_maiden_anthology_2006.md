@@ -13,4 +13,4 @@ download_link: '/pdfs/iron_maiden_anthology_2006.pdf'
 - Producer: Unknown
 - Title: Iron Maiden Anthology 2006
 
-{< button >}
+{{< button >}}

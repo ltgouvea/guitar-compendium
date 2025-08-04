@@ -13,4 +13,4 @@ download_link: '/pdfs/jeff_beck_anthology_hahahah_goodluck_trying_to_play_this.p
 - Producer: Adobe Acrobat 6.0 Image Conversion Plug-in
 - Title: Jeff Beck - Anthology
 
-{< button >}
+{{< button >}}
