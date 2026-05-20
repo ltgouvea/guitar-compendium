@@ -2,8 +2,7 @@
 title: 'Contact'
 menu: navbar
 type: 'blank'
-bookcase_cover_src: 'icons/catalogue.svg'
-bookcase_cover_src_dark: 'icons/catalogue_dark.svg'
+bookcase_cover_src: 'fa-solid fa-paper-plane'
 weight: 10
 ---
 

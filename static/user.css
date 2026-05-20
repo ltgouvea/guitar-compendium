@@ -1,0 +1,148 @@
+/* 
+   Custom CSS to improve the Home Page navigation icons
+   and general layout.
+*/
+
+/* 1. Centering and Spacing for the Bookcase Layout (Home Page Sections) */
+.bookcase-layout {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    gap: 3rem !important; /* Balanced gap */
+    margin: 4rem 0 !important;
+}
+
+/* 2. Individual Item Styling */
+.bookcase-item {
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    text-align: center;
+}
+
+.bookcase-item:hover {
+    transform: translateY(-12px);
+}
+
+.bookcase-item figure {
+    margin: 0 auto !important;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+/* 3. Icon Wrapper (for FontAwesome icons on Home Page) */
+.bookcase-item-icon-wrapper {
+    width: 14rem !important;
+    height: 14rem !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--color-background-secondary, #f8f9fa);
+    border: 1px solid var(--color-background-overlay, #e9ecef);
+    border-radius: 2.5rem !important;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05), 0 4px 10px rgba(0, 0, 0, 0.05) !important;
+    transition: all 0.3s ease;
+}
+
+.bookcase-item-icon-wrapper i {
+    font-size: 5rem;
+    color: var(--color-text);
+}
+
+/* 4. Real Book Covers (for Compendium items) */
+.bookcase-item img:not(.bookcase-item-icon-wrapper img), 
+.bookcase-item .bookcase-item-overlay {
+    width: 12rem !important;
+    height: 18rem !important; /* Traditional book ratio */
+    object-fit: cover !important;
+    border-radius: 0.75rem !important;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1), 0 5px 15px rgba(0, 0, 0, 0.05) !important;
+    transition: all 0.3s ease;
+}
+
+/* Dark Theme Overrides */
+html[data-theme="dark"] .bookcase-item-icon-wrapper {
+    background-color: #1a1a1a;
+    border-color: #333;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4) !important;
+}
+
+html[data-theme="dark"] .bookcase-item img {
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5) !important;
+}
+
+/* Hover effects */
+.bookcase-item:hover .bookcase-item-icon-wrapper {
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15) !important;
+    border-color: var(--color-primary, #ccc);
+    background-color: #ffffff;
+}
+
+html[data-theme="dark"] .bookcase-item:hover .bookcase-item-icon-wrapper {
+    background-color: #252525;
+    border-color: #444;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6) !important;
+}
+
+/* 5. Figcaption (Label) Styling */
+.bookcase-item figcaption {
+    margin-top: 1.5rem !important;
+    font-size: 1.25rem !important;
+    font-weight: 600 !important;
+    color: var(--color-text);
+}
+
+.bookcase-item figcaption a {
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
+/* 6. Mobile Responsiveness */
+@media screen and (max-width: 48rem) {
+    .bookcase-layout {
+        gap: 2rem !important;
+        margin: 2rem 0 !important;
+    }
+    
+    .bookcase-item-icon-wrapper {
+        width: 10rem !important;
+        height: 10rem !important;
+        border-radius: 1.75rem !important;
+    }
+
+    .bookcase-item img:not(.bookcase-item-icon-wrapper img), 
+    .bookcase-item .bookcase-item-overlay {
+        width: 9rem !important;
+        height: 13.5rem !important;
+    }
+    
+    .bookcase-item-icon-wrapper i {
+        font-size: 3.5rem;
+    }
+
+    .bookcase-item figcaption {
+        font-size: 1.1rem !important;
+        margin-top: 1rem !important;
+    }
+}
+
+@media screen and (max-width: 30rem) {
+    .bookcase-layout {
+        gap: 1.5rem !important;
+    }
+    
+    .bookcase-item-icon-wrapper {
+        width: 8.5rem !important;
+        height: 8.5rem !important;
+        border-radius: 1.5rem !important;
+    }
+
+    .bookcase-item img:not(.bookcase-item-icon-wrapper img), 
+    .bookcase-item .bookcase-item-overlay {
+        width: 7.5rem !important;
+        height: 11.25rem !important;
+    }
+    
+    .bookcase-item-icon-wrapper i {
+        font-size: 3rem;
+    }
+}

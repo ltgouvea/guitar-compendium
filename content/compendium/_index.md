@@ -2,7 +2,6 @@
 title: 'The compendium'
 menu: navbar
 type: 'bookcase'
-bookcase_cover_src: 'icons/catalogue.svg'
-bookcase_cover_src_dark: 'icons/catalogue_dark.svg'
+bookcase_cover_src: 'fa-solid fa-book-open-reader'
 weight: 2
 ---

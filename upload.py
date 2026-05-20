@@ -20,8 +20,16 @@ COVER_DIR.mkdir(parents=True, exist_ok=True)
 PDFS_DIR.mkdir(parents=True, exist_ok=True)
 
 def parse_pdf_date(date_str):
-    if not date_str or not date_str.startswith("D:"):
+    # if date_str is not a string, return "Desconhecida"
+    if not isinstance(date_str, str):
         return "Desconhecida"
+
+    if date_str == "":
+        return "Desconhecida"
+    
+    if not date_str.startswith("D:"):
+        return "Desconhecida"
+
     date_str = date_str[2:]
     
     # Tenta os formatos mais comuns
