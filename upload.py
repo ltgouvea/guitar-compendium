@@ -98,7 +98,7 @@ def process_pdf(pdf_path):
     metadata = extract_metadata(pdf_path)
 
     # Cria markdown
-    md_path = book_dir / f"{pdf_filename}.md"
+    md_path = book_dir / "index.md"
     create_markdown(metadata, md_path, pdf_filename)
 
     # Extrai imagem da capa
