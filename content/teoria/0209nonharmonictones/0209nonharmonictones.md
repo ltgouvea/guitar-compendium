@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/0209nonharmonictones.png'
 download_link: '/pdfs/teoria/0209nonharmonictones.pdf'
 ---
 
-- CreationDate: D:20140103122815-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103122815-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Non harmonic tones
+Covers the decorative notes that are not part of the underlying harmony. Includes passing tones, neighboring tones, suspensions, appoggiaturas, and more, explaining their function and resolution.
 {{< button >}}

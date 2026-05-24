@@ -6,11 +6,6 @@ bookcase_cover_src_dark: 'cover/iron_maiden_anthology_2006.png'
 download_link: '/pdfs/iron_maiden_anthology_2006.pdf'
 ---
 
-- Author: Edward The Great
-- CreationDate: 2006
-- Creator: Bruce Dickinson and Associates
-- ModDate: Unknown
-- Producer: Unknown
-- Title: Iron Maiden Anthology 2006
+A comprehensive collection of guitar transcriptions for some of Iron Maiden's most iconic songs. This anthology includes full sheet music and tablature for tracks like "Aces High," "The Number of the Beast," and "The Trooper," providing authentic transcriptions for guitarists to study the band's classic heavy metal style.
 
 {{< button >}}

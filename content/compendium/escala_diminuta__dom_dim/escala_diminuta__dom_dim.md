@@ -6,11 +6,6 @@ bookcase_cover_src_dark: 'cover/escala_diminuta__dom_dim.png'
 download_link: '/pdfs/escala_diminuta__dom_dim.pdf'
 ---
 
-- Author: 
-- CreationDate: D:20100729165947
-- Creator: Guitar Pro
-- Keywords: 
-- Producer: llPDFLib 3.x
-- Subject: 
-- Title: Escala Diminuta / Escala Dom dim
+Este material técnico, elaborado pelo Prof. Emanuel Rodrigo, foca no estudo das escalas diminuta e dominante diminuta aplicadas à guitarra. O conteúdo apresenta diagramas e exercícios práticos para a compreensão teórica e técnica desses padrões intervalares. É um guia conciso voltado para músicos que buscam explorar novas sonoridades e possibilidades de improvisação.
+
 {{< button >}}

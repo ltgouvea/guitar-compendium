@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/SP03suspensions.png'
 download_link: '/pdfs/teoria/SP03suspensions.pdf'
 ---
 
-- CreationDate: D:20140103121140-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103121140-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Suspensions
+Deepens the understanding of suspensions as a source of harmonic tension and resolution. Explains the three parts of a suspension: the preparation, the suspension itself, and the resolution.
 {{< button >}}

@@ -6,11 +6,6 @@ bookcase_cover_src_dark: 'cover/chord_chemistry_ted_greene.png'
 download_link: '/pdfs/chord_chemistry_ted_greene.pdf'
 ---
 
-- Author: Desconhecido
-- CreationDate: Desconhecida
-- Creator: Adobe Acrobat 6.01
-- ModDate: Desconhecida
-- Producer: Mac OS X 10.5.8 Quartz PDFContext
-- Title: chord_chemistry_ted_greene
+This classic book by Ted Greene explores the depth of guitar chord theory and its practical application. It covers a wide range of concepts, including chord formulas, essential synonyms, and polytonal chords, with a focus on fingerboard relationships and voice leading. The material is designed to help guitarists of all levels expand their harmonic vocabulary and understanding of the fretboard.
 
 {{< button >}}

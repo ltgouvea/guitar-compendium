@@ -6,9 +6,6 @@ bookcase_cover_src_dark: 'cover/berklee/a_modern_method_for_guitar_berklee_2.png
 download_link: '/pdfs/berklee/a_modern_method_for_guitar_berklee_2.pdf'
 ---
 
-- Author: 
-- CreationDate: D:20020509223021
-- Creator: FineReader
-- ModDate: D:20020509223021
-- Producer: 
+Continuing the journey from Volume 1, this book expands on techniques by covering the entire fingerboard using connected fingering patterns and advanced scale studies. It introduces complex rhythmic concepts, triads across the neck, and diatonic triads in multiple keys to deepen the student's theoretical knowledge. The volume also explores melodic minor scales and arpeggios, providing a bridge to more advanced improvisation.
+
 {{< button >}}

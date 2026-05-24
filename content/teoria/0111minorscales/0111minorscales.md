@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/0111minorscales.png'
 download_link: '/pdfs/teoria/0111minorscales.pdf'
 ---
 
-- CreationDate: D:20140103121942-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103121942-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Minor Scales
+An in-depth look at the three forms of the minor scale: natural, harmonic, and melodic. It explores the unique characteristics and uses of each form.
 {{< button >}}

@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/0401modes.png'
 download_link: '/pdfs/teoria/0401modes.pdf'
 ---
 
-- CreationDate: D:20140103123224-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103123224-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Modes
+Explores the seven diatonic modes (Ionian, Dorian, Phrygian, Lydian, Mixolydian, Aeolian, and Locrian). This material covers their unique scale structures and their use in various musical traditions.
 {{< button >}}

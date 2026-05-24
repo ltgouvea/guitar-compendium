@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/SC07speciesfive.png'
 download_link: '/pdfs/teoria/SC07speciesfive.pdf'
 ---
 
-- CreationDate: D:20140103120727-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103120727-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Species five
+Also known as "florid" counterpoint. This final stage combines all previous species, using a variety of rhythmic values to create a more free and musical contrapuntal line.
 {{< button >}}

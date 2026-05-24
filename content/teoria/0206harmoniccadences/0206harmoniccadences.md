@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/0206harmoniccadences.png'
 download_link: '/pdfs/teoria/0206harmoniccadences.pdf'
 ---
 
-- CreationDate: D:20140103122929-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103122930-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Harmonic cadences
+Studies the different ways musical phrases are brought to a conclusion. Covers perfect authentic, imperfect authentic, half, plagal, and deceptive cadences.
 {{< button >}}

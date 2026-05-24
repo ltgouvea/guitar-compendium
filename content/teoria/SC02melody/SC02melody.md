@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/SC02melody.png'
 download_link: '/pdfs/teoria/SC02melody.pdf'
 ---
 
-- CreationDate: D:20140103120958-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103120958-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Melody
+Focuses on the construction of a single contrapuntal line (the cantus firmus). Explains rules for range, interval usage, and the overall shape of a well-formed melody.
 {{< button >}}

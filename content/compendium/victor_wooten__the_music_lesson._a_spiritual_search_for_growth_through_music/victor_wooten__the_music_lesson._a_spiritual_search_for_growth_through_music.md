@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/wooten.png'
 download_link: '/pdfs/wooten.pdf'
 ---
 
-- Author: Victor L. Wooten
-- CreationDate: D:20120210152542+02'00'
-- ModDate: D:20120210152558+02'00'
-- Producer: Python PDF Library - http://pybrary.net/pyPdf/
-- Title: The Music Lesson: A Spiritual Search for Growth Through Music
+A compelling story that doubles as a profound music lesson. Bass virtuoso Victor Wooten shares his philosophy on music, life, and the connection between the two, focusing on ten key elements of music that go far beyond notes and technique.
 {{< button >}}

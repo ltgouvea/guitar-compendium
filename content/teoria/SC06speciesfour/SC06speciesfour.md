@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/SC06speciesfour.png'
 download_link: '/pdfs/teoria/SC06speciesfour.pdf'
 ---
 
-- CreationDate: D:20140103120755-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103120755-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Species four
+Introduces syncopation and ties across the bar line. This species focuses on the use of suspensions and their preparation and resolution in a contrapuntal texture.
 {{< button >}}

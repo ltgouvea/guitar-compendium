@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/0308augmentedsixths.png'
 download_link: '/pdfs/teoria/0308augmentedsixths.pdf'
 ---
 
-- CreationDate: D:20140103123350-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103123350-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Augmented sixths
+Introduces the Italian, French, and German augmented sixth chords. Explains their unique construction, their role as powerful predominant chords, and their resolution to the dominant.
 {{< button >}}

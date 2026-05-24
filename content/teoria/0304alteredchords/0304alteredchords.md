@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/0304alteredchords.png'
 download_link: '/pdfs/teoria/0304alteredchords.pdf'
 ---
 
-- CreationDate: D:20140103123508-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103123508-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Altered chords
+Introduces chords that contain chromatic alterations to add color and tension. Covers common examples like secondary dominants, borrowed chords, and augmented sixth chords.
 {{< button >}}

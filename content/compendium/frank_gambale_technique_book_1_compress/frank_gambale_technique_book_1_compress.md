@@ -6,11 +6,6 @@ bookcase_cover_src_dark: 'cover/frank_gambale_technique_book_1_compress.png'
 download_link: '/pdfs/frank_gambale_technique_book_1_compress.pdf'
 ---
 
-- Author: Desconhecido
-- CreationDate: Desconhecida
-- Creator: Acrobat 5.0 Image Conversion Plug-in for Windows
-- ModDate: Desconhecida
-- Producer: Acrobat 5.0 Image Conversion Plug-in for Windows
-- Title: frank_gambale_technique_book_1_compress
+The first volume of Frank Gambale's technique series introduces his innovative soloing concept based on six basic chord types. It focuses on mastering scales, pentatonics, arpeggios, and triads over minor 7, major 7, and unaltered dominant chords. The book provides a systematic approach to developing a sophisticated soloing vocabulary and advanced fretboard proficiency.
 
 {{< button >}}

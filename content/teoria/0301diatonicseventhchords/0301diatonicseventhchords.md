@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/0301diatonicseventhchords.png'
 download_link: '/pdfs/teoria/0301diatonicseventhchords.pdf'
 ---
 
-- CreationDate: D:20140103123605-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103123605-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Diatonic seventh chords
+Introduces four-note chords built within a major or minor key. Covers the construction and Roman numeral labeling of major seventh, dominant seventh, minor seventh, and half-diminished seventh chords.
 {{< button >}}

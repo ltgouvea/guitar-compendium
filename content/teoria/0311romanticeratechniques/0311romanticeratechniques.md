@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/0311romanticeratechniques.png'
 download_link: '/pdfs/teoria/0311romanticeratechniques.pdf'
 ---
 
-- CreationDate: D:20140103123245-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103123245-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Romantic era techniques
+An overview of the harmonic and structural innovations of the 19th century. Covers increased chromaticism, enharmonic modulation, and the expansion of traditional forms.
 {{< button >}}

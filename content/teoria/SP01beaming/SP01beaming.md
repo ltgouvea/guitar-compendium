@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/SP01beaming.png'
 download_link: '/pdfs/teoria/SP01beaming.pdf'
 ---
 
-- CreationDate: D:20140103121222-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103121222-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Beaming
+A practical guide to the rules of beaming in musical notation. Explains how to group notes together to clearly indicate the meter and beat structure, improving readability for performers.
 {{< button >}}

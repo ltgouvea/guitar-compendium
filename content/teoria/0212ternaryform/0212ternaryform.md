@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/0212ternaryform.png'
 download_link: '/pdfs/teoria/0212ternaryform.pdf'
 ---
 
-- CreationDate: D:20140103122652-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103122652-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Ternary form
+Focuses on the three-part musical structure (ABA). Covers the contrast between the middle section and the outer sections, and the typical return to the tonic key.
 {{< button >}}

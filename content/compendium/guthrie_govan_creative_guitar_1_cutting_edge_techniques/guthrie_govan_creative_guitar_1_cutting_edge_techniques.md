@@ -6,11 +6,6 @@ bookcase_cover_src_dark: 'cover/guthrie_govan_creative_guitar_1_cutting_edge_tec
 download_link: '/pdfs/guthrie_govan_creative_guitar_1_cutting_edge_techniques.pdf'
 ---
 
-- Author: Desconhecido
-- CreationDate: Desconhecida
-- Creator: Adobe Acrobat 7.05
-- ModDate: Desconhecida
-- Producer: Adobe Acrobat 7.05 Image Conversion Plug-in
-- Title: Govan advanced techniques 1
+Written by renowned guitarist Guthrie Govan, this book focuses on developing fundamental and advanced guitar techniques with a creative approach. It covers a wide range of topics, including general practice advice, theory without tears, and comprehensive exercises for scales and chords, all aimed at helping guitarists find their unique musical voice.
 
 {{< button >}}

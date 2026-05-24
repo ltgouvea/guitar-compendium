@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/0210motivicdevelopment.png'
 download_link: '/pdfs/teoria/0210motivicdevelopment.pdf'
 ---
 
-- CreationDate: D:20140103122750-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103122750-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Motivic development
+Explores how a small musical idea (motive) is transformed and expanded to create a larger composition. Covers techniques like repetition, sequence, inversion, and rhythmic displacement.
 {{< button >}}

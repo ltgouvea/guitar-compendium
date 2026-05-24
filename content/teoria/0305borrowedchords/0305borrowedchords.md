@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/0305borrowedchords.png'
 download_link: '/pdfs/teoria/0305borrowedchords.pdf'
 ---
 
-- CreationDate: D:20140103123449-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103123449-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Borrowed chords
+Explains the concept of modal mixture, where chords are "borrowed" from the parallel major or minor key. This lesson covers the most common borrowed chords and their use in adding harmonic color.
 {{< button >}}

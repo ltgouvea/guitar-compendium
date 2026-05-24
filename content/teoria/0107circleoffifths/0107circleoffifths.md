@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/0107circleoffifths.png'
 download_link: '/pdfs/teoria/0107circleoffifths.pdf'
 ---
 
-- CreationDate: D:20140103122144-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103122144-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Circle of Fifths
+A visual and theoretical tool for understanding the relationship between the twelve tones of the chromatic scale, their corresponding key signatures, and associated major and minor keys.
 {{< button >}}

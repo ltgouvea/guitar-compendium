@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/0208diatoniccommonchordmodulation.png'
 download_link: '/pdfs/teoria/0208diatoniccommonchordmodulation.pdf'
 ---
 
-- CreationDate: D:20140103122843-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103122843-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Diatonic common chord modulation
+Explains the technique of moving from one key to another using a chord that is native to both keys. This material covers the identification of pivot chords and the process of establishing the new tonality.
 {{< button >}}

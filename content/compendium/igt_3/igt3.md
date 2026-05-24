@@ -6,8 +6,5 @@ bookcase_cover_src_dark: 'cover/igt/igt_modulo_3.png'
 download_link: '/pdfs/igt/igt_modulo_3.pdf'
 ---
 
-- Author: IG&T
-- CreationDate: Unknown
-- Creator: Unknown
-- ModDate: Unknown
+Este terceiro módulo do curso do IG&T aprofunda os estudos de harmonia e técnica. O conteúdo foca em escalas maiores e menores em diferentes regiões do braço, introdução aos intervalos, formação de acordes tétrades e exercícios avançados de palhetada alternada e ligatos.
 {{< button >}}

@@ -6,8 +6,5 @@ bookcase_cover_src_dark: 'cover/zen_guitar_philip_toshio_sudo.png'
 download_link: '/pdfs/zen_guitar_philip_toshio_sudo.pdf'
 ---
 
-- CreationDate: D:20110317184049Z00'00'
-- Creator: Canon 
-- ModDate: D:20110317184049Z00'00'
-- Producer: Mac OS X 10.5.8 Quartz PDFContext
+A unique approach to music that blends the principles of Zen philosophy with guitar playing. It focuses on the spiritual and mental aspects of performance, encouraging players to find their "own sound" and play with intention, simplicity, and focus.
 {{< button >}}

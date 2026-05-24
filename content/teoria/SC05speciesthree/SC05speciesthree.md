@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/SC05speciesthree.png'
 download_link: '/pdfs/teoria/SC05speciesthree.pdf'
 ---
 
-- CreationDate: D:20140103120826-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103120826-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Species three
+Further increases the rhythmic activity to four notes against one (4:1). Covers the use of passing tones, neighboring tones, and the "cambiata" or changing note figure.
 {{< button >}}

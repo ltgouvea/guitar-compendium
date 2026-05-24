@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/0302thedominantseventh.png'
 download_link: '/pdfs/teoria/0302thedominantseventh.pdf'
 ---
 
-- CreationDate: D:20140103123548-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103123548-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: The dominant seventh
+Specifically focuses on the V7 chord and its unique role in establishing tonality. Explains its construction, resolution, and tendency tones (the leading tone and the chordal seventh).
 {{< button >}}

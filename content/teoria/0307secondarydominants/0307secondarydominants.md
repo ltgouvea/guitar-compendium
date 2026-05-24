@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/0307secondarydominants.png'
 download_link: '/pdfs/teoria/0307secondarydominants.pdf'
 ---
 
-- CreationDate: D:20140103123408-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103123408-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Secondary dominants
+Explores chords that function as the dominant of a key other than the tonic. Covers how to identify, construct, and resolve these chromatic chords (e.g., V/V, V/vi).
 {{< button >}}

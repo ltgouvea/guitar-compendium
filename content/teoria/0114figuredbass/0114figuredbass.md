@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/0114figuredbass.png'
 download_link: '/pdfs/teoria/0114figuredbass.pdf'
 ---
 
-- CreationDate: D:20140909231916-04'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140909231917-04'00'
-- Producer: Adobe PDF library 9.90
-- Title: Figured Bass
+An introduction to the shorthand system used in the Baroque era to indicate harmony. This lesson teaches how to read and realize the numerical symbols used under a bass line.
 {{< button >}}

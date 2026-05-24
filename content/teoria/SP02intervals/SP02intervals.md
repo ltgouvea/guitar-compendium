@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/SP02intervals.png'
 download_link: '/pdfs/teoria/SP02intervals.pdf'
 ---
 
-- CreationDate: D:20140103121158-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103121158-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Intervals
+A focused resource for identifying and constructing musical intervals. Provides exercises and tips for mastering one of the most fundamental skills in music theory and ear training.
 {{< button >}}

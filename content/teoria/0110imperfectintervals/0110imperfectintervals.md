@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/0110imperfectintervals.png'
 download_link: '/pdfs/teoria/0110imperfectintervals.pdf'
 ---
 
-- CreationDate: D:20140103122011-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103122011-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Imperfect Intervals
+Covers the major and minor seconds, thirds, sixths, and sevenths. It explains how to determine the quality of these intervals and their role in harmony.
 {{< button >}}

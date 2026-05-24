@@ -6,9 +6,5 @@ bookcase_cover_src_dark: 'cover/teoria/0203partwritinghorizontal.png'
 download_link: '/pdfs/teoria/0203partwritinghorizontal.pdf'
 ---
 
-- CreationDate: D:20140103123031-05'00'
-- Creator: Adobe Illustrator CS5.1
-- ModDate: D:20140103123031-05'00'
-- Producer: Adobe PDF library 9.90
-- Title: Part writing horizontal
+Deals with the melodic motion of individual voices over time. It covers the principles of smooth voice leading, including common tone retention and stepwise motion.
 {{< button >}}
