@@ -24,7 +24,7 @@
 
 .bookcase-item figure {
     margin: 0 auto !important;
-    display: flex;
+    display: inline-flex;
     justify-content: center;
     position: relative;
 }
@@ -49,14 +49,29 @@
 }
 
 /* 4. Real Book Covers (for Compendium items) */
-.bookcase-item img:not(.bookcase-item-icon-wrapper img), 
-.bookcase-item .bookcase-item-overlay {
+.bookcase-item img:not(.bookcase-item-icon-wrapper img) {
     width: 12rem !important;
     height: 18rem !important; /* Traditional book ratio */
     object-fit: cover !important;
     border-radius: 0.75rem !important;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1), 0 5px 15px rgba(0, 0, 0, 0.05) !important;
     transition: all 0.3s ease;
+}
+
+.bookcase-item .bookcase-item-overlay {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    border-radius: 0.75rem !important; /* Default for book covers */
+    transition: all 0.3s ease;
+    z-index: 5;
+}
+
+/* Adjust overlay border-radius for icons */
+.bookcase-item-icon-wrapper + .bookcase-item-overlay {
+    border-radius: 2.5rem !important;
 }
 
 /* Dark Theme Overrides */
@@ -109,8 +124,7 @@ html[data-theme="dark"] .bookcase-item:hover .bookcase-item-icon-wrapper {
         border-radius: 1.75rem !important;
     }
 
-    .bookcase-item img:not(.bookcase-item-icon-wrapper img), 
-    .bookcase-item .bookcase-item-overlay {
+    .bookcase-item img:not(.bookcase-item-icon-wrapper img) {
         width: 9rem !important;
         height: 13.5rem !important;
     }
@@ -136,8 +150,7 @@ html[data-theme="dark"] .bookcase-item:hover .bookcase-item-icon-wrapper {
         border-radius: 1.5rem !important;
     }
 
-    .bookcase-item img:not(.bookcase-item-icon-wrapper img), 
-    .bookcase-item .bookcase-item-overlay {
+    .bookcase-item img:not(.bookcase-item-icon-wrapper img) {
         width: 7.5rem !important;
         height: 11.25rem !important;
     }
