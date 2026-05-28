@@ -9,7 +9,7 @@ weight: 10
 ## Send me new material to upload or send your feedback, I'd love to hear it
 ---
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 30px; flex-wrap: wrap;">
+<div class="social-btn-container">
 
   <a href="https://www.youtube.com/channel/UC-O1ZI3h_W9kFRK5ANMREOg" target="_blank" class="social-btn youtube">
     <i class="fa-brands fa-youtube"></i> YouTube
@@ -30,27 +30,41 @@ weight: 10
 </div>
 
 <style>
+  .social-btn-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    margin-top: 40px;
+    width: 100%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 20px;
+  }
+
   .social-btn {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    gap: 10px;
-    padding: 14px 28px;
+    gap: 12px;
+    padding: 16px 32px;
+    width: 100%;
     border: none;
-    border-radius: 10px;
-    font-family: 'Segoe UI', sans-serif;
-    font-size: 16px;
-    font-weight: 500;
+    border-radius: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
     text-decoration: none;
     color: white;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    min-width: 150px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    cursor: pointer;
   }
 
   .social-btn:hover {
-    transform: scale(1.05);
-    box-shadow: 0 6px 20px rgba(255, 255, 255, 0.2);
+    transform: scale(1.02);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
   }
 
   .social-btn.youtube {
@@ -67,6 +81,13 @@ weight: 10
 
   .social-btn.email {
     background-color: #2ecc71;
+  }
+
+  @media screen and (max-width: 480px) {
+    .social-btn {
+      font-size: 16px;
+      padding: 14px 24px;
+    }
   }
 </style>
 
