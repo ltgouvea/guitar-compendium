@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="112" fill="#0d1b2a"/>
+
+  <!-- "G" estilizado que forma o corpo de uma guitarra -->
+  <!-- Arco externo do G (abre à direita) -->
+  <path
+    d="M256 96
+       A160 160 0 1 0 416 280
+       L336 280
+       L336 240
+       L392 240
+       A112 112 0 1 1 256 144
+       Z"
+    fill="#e8c547"
+  />
+
+  <!-- Barra horizontal do G (travessa) -->
+  <rect x="316" y="262" width="100" height="36" rx="18" fill="#e8c547"/>
+
+  <!-- Corda saindo da base do G (efeito de guitarra) -->
+  <line x1="416" y1="316" x2="416" y2="390" stroke="#c9a93a" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- Knob / cravelha no final da corda -->
+  <circle cx="416" cy="406" r="18" fill="#c9a93a"/>
+  <circle cx="416" cy="406" r="9" fill="#0d1b2a"/>
+
+  <!-- Pequeno detalhe: ponto brilhante na cravelha -->
+  <circle cx="412" cy="402" r="3" fill="#e8c547" opacity="0.6"/>
+</svg>
