@@ -1,5 +1,5 @@
 ---
-title: 'advancing_guitarist_mick_goodrick'
+title: 'The Advancing Guitarist - Mick Goodrick'
 weight: 1
 bookcase_cover_src: 'cover/advancing_guitarist_mick_goodrick.png'
 bookcase_cover_src_dark: 'cover/advancing_guitarist_mick_goodrick.png'

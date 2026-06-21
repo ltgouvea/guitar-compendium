@@ -1,5 +1,5 @@
 ---
-title: 'joe-pass-guitar-stylepdf'
+title: 'Joe Pass - Guitar Style'
 weight: 1
 bookcase_cover_src: 'cover/joe-pass-guitar-stylepdf.png'
 bookcase_cover_src_dark: 'cover/joe-pass-guitar-stylepdf.png'

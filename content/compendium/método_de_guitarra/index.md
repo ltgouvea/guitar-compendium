@@ -1,5 +1,5 @@
 ---
-title: 'método_de_guitarra'
+title: 'Método de Guitarra - Daniel Faustino'
 weight: 10
 bookcase_cover_src: 'cover/método_de_guitarra.png'
 bookcase_cover_src_dark: 'cover/método_de_guitarra.png'
